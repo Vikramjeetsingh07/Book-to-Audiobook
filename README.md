@@ -8,6 +8,7 @@ This project converts PDF documents into audiobooks using **Streamlit** for the 
 - Choose between male or female voice for narration.
 - Generate and download the audiobook in MP3 format.
 
+![Alt text](https://github.com/Vikramjeetsingh07/Book-to-Audiobook/blob/main/5DE035F7-62B6-4DE4-A99A-7E92A500F920.jpeg)
 ## Installation
 
 To set up and run this project locally, follow these steps:
